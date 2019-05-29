@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>OTROCHRIS.jpg</filename>
+	<path>C:\Users\vanessa.salinas\Downloads\OTROCHRIS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>881</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>31</ymin>
+			<xmax>485</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
