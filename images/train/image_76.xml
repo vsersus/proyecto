@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selfies data augmentadas</folder>
+	<filename>image_76.jpg</filename>
+	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>VANESSA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>1642</ymin>
+			<xmax>1266</xmax>
+			<ymax>2255</ymax>
+		</bndbox>
+	</object>
+</annotation>
