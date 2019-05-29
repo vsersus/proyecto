@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>STARLORD.jpg</filename>
+	<path>C:\Users\vanessa.salinas\Downloads\STARLORD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>1011</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNKNOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>90</ymin>
+			<xmax>580</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>
