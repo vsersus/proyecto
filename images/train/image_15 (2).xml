@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selfies data augmentadas</folder>
+	<filename>image_15 (2).jpg</filename>
+	<path>D:\Users\vanessa.salinas\Downloads\selfies data augmentadas-20190516T143412Z-001\selfies data augmentadas\image_15 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ISABELLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>481</ymin>
+			<xmax>785</xmax>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+</annotation>
